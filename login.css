@@ -1,0 +1,21 @@
+.top{
+  padding: 20px;
+  margin:auto;
+  box-shadow: 2px 2px 3px 3px rgb(105,105,105);
+  margin-top: 10px;
+  border: 1px solid white;
+  border-radius: 2px;
+}
+.back-log {
+  background-color: green;
+}
+h3
+{
+  color: white;
+}
+input{
+  background-color: lightgreen;
+}
+.cen{
+  text-align: center;
+}
